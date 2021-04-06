@@ -1,11 +1,16 @@
 _repo: Youth-Volume-1-Number-5-July-1902-An-Illustrated-Monthly-Journal-for-Boys-Girls_64979
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64979-h/images/cover.jpg
 creator:
   author:
     agent_name: Coggins, H. L.
     gutenberg_agent_id: '53126'
     url: http://www.gutenberg.org/2009/agents/53126
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64979#Youth-Volume-1-Number-5-July-1902-An-Illustrated-Monthly-Journal-for-Boys-Girls
 gutenberg_issued: '2021-04-01'
 gutenberg_type: Text
 identifiers:
